@@ -29,7 +29,7 @@ contextlib2==0.5.5
 cramjam==2.5.0
 cryptography==3.4.7
 defusedxml==0.6.0
-Django==3.2.13
+Django==3.2.16
 django-allauth==1.11.29
 django-appconf==1.0.2
 django-bootstrap-form==3.3
