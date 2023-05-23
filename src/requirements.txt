@@ -46,7 +46,7 @@ django-jet==1.0.6
 django-mobile==0.7.0
 django-nose==1.4.4
 django-redis-cache==1.7.1
-django-ses==0.8.2
+django-ses==3.5.0
 django-snippetscream==0.0.7
 django-sslserver==0.22
 django-statsd==2.0.1
@@ -135,7 +135,7 @@ python3-openid==3.2.0
 pytz==2021.1
 PyYAML==5.4
 redis==2.10.5
-requests==2.26.0
+requests==2.31.0
 requests-oauthlib==0.8.0
 rsa==4.7
 s3fs==2022.1.0
