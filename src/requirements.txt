@@ -21,7 +21,7 @@ boto==2.48.0
 boto3==1.20.21
 botocore==1.23.24
 celery==5.2.2
-certifi==2017.7.27.1
+certifi==2023.7.22.1
 cffi==1.12.3
 chardet==3.0.4
 charset-normalizer==2.0.10
