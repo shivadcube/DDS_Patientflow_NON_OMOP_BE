@@ -27,7 +27,7 @@ chardet==3.0.4
 charset-normalizer==2.0.10
 contextlib2==0.5.5
 cramjam==2.5.0
-cryptography==3.4.7
+cryptography==42.0.0
 defusedxml==0.6.0
 Django==3.2.13
 django-allauth==1.11.29
