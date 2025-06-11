@@ -29,7 +29,7 @@ contextlib2==0.5.5
 cramjam==2.5.0
 cryptography==3.4.7
 defusedxml==0.6.0
-Django==3.2.13
+Django==4.2.22
 django-allauth==1.11.29
 django-appconf==1.0.2
 django-bootstrap-form==3.3
@@ -135,7 +135,7 @@ python3-openid==3.2.0
 pytz==2021.1
 PyYAML==5.4
 redis==2.10.5
-requests==2.26.0
+requests==2.32.4
 requests-oauthlib==0.8.0
 rsa==4.7
 s3fs==2022.1.0
