@@ -142,13 +142,13 @@ s3fs==2022.1.0
 s3transfer==0.5.0
 simplejson==3.11.1
 six==1.16.0
-sqlparse==0.4.2
+sqlparse==0.5.4
 supervisor==4.0.4
 thrift==0.13.0
 tornado==5.1
 typing-extensions==4.1.1
 uritemplate==3.0.0
-urllib3==1.26.7
+urllib3==2.6.0
 watchdog==0.8.3
 wcwidth==0.2.5
 websocket-client==1.1.0
